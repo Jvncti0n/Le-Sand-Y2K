@@ -13,4 +13,4 @@ Windows XP or MacOS 10.4+
 512mb Ram
 200mb Disk Space
 
-You can download it and the source code here or on [itch.io](https://bennyy2k.itch.io/le-sand-y2k)
+You can download here or on [itch.io](https://bennyy2k.itch.io/le-sand-y2k)
