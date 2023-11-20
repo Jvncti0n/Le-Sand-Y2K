@@ -1,4 +1,4 @@
-# Le-Sand-Y2K
+# Le-Sand Y2K
 Le Sand Port for older versions of Windows and MacOS, even natively supporting PowerPC Processors (G3+)
 
 Le Sand is a small simple sandbox game, meant to run on any computer made in the last like 20 years.
