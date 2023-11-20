@@ -3,6 +3,7 @@ Le Sand Port for older versions of Windows and MacOS, even natively supporting P
 
 Le Sand is a small simple sandbox game, meant to run on any computer made in the last like 20 years.
 There is 3 Main versions of Le Sand, all made in different versions of Unity. This being the oldest one made in 2.6.1
+This Port is very very unfinished and in a early state, i dont know when ill pick it up again but im sure it will get done
 
 ![Pbw46f](https://github.com/Jvncti0n/Le-Sand-Y2K/assets/116232071/bad6b472-4b08-48fd-b865-9cd038a531f7)
 
